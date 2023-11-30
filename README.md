@@ -1,2 +1,3 @@
 # accesible
-Tabla accesible con programación de eventos JavaScript
+Tabla con accesibilidad y con programación de eventos JavaScript
+Diferencia el clic del doble clic utilizando un intervalo
