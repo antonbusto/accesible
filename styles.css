@@ -1,0 +1,31 @@
+/* styles.css */
+html {
+   font-size: 16px;
+}
+
+/* modo claro */
+body { 
+   padding: 20px;
+   background-color: white;
+   color: black;
+   font-family: Arial, Helvetica, sans;
+   font-size: 1.1rem;
+}
+
+table, caption {
+   margin: 1rem;
+}
+
+table, th, td {
+   border: 1px solid;
+}
+
+button, table, th, td {
+   padding: 5px;
+}
+
+/* modo oscuro */
+.modo-oscuro {
+   background-color:  #666666; /* rgb(112,128,144); */
+   color: white;
+}
